@@ -1,5 +1,5 @@
 # Prediction Market Arbitrage Python Code (Polymarket - Kalshi)
-Find price arbitrage using the Kalshi and Polymarket websocket API's.
+Use the Kalshi and Polymarket websocket API's to find arbitrage in ask prices.
 
 You will need: Kalshi account & private key
 
